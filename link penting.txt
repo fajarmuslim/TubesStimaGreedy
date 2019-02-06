@@ -7,3 +7,6 @@ documentation = https://pygame-zero.readthedocs.io/en/stable/
 
 contoh program
 https://github.com/bennuttall/uno
+
+laporan
+https://docs.google.com/document/d/1K0zsN7NN04BqYE4GqkKGnhjmXp8o87AsVqLDvDQperg/edit#
